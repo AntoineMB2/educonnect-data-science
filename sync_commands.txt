@@ -1,0 +1,2 @@
+cd C:\Users\user\OneDrive\Desktop\CODE\educonnect-data-science
+git pull origin main
